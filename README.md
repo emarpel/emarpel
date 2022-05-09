@@ -5,4 +5,4 @@
 I'm David Góis</br>
 I'm a full stack developer
 - :rocket:   I’m currently working developing softwares for public services
-- <img id="php" src="php.svg" style="height: 35px; width: 35px;">&nbsp;&nbsp;<img src="react.svg" style="height: 30px; width: 30px;">&nbsp;&nbsp;<img src="nodedotjs.svg" style="height: 30px; width: 30px;">&nbsp;&nbsp;<img src="typescript.svg" style="height: 25px; width: 25px;">
+- <img src="php.svg" style="height: 35px; width: 35px;">&nbsp;&nbsp;<img src="react.svg" style="height: 30px; width: 30px;">&nbsp;&nbsp;<img src="nodedotjs.svg" style="height: 30px; width: 30px;">&nbsp;&nbsp;<img src="typescript.svg" style="height: 25px; width: 25px;">
